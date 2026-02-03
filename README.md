@@ -462,11 +462,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: (https://github.com/EngIbrah)
+- LinkedIn: (https://linkedin.com/in/ibrahim-ndagiwe)
+- Email: ibrahndagiwe99@gmail.com
 
-**Project Link:** [https://github.com/yourusername/sales-performance-dashboard](https://github.com/yourusername/sales-performance-dashboard)
+**Project Link:** [https://github.com/EngIbrah/sales-performance-dashboard](https://github.com/yourusername/sales-performance-dashboard)
 
 ---
 
